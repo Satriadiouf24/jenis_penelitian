@@ -2,12 +2,10 @@
 
 ## Penelitian terapan:
 
-| Num  | iTCLab Publication Articles                                                                                                                                                     | Download BibTex Citation                                                                 |
+| Num  | Artikel Penelitian                                                                                                                                                    | Download BibTex Citation                                                                 |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1059/1/012016/pdf">Estimation of Size, Volume and Weight of Oranges Using Digital Images Processing</a>                      | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab01.bib) |
 |  02  |<a href="https://link.springer.com/article/10.1007/s11045-021-00800-0">Identifying the presence of bacteria on digital images by using asymmetric distribution with k-means clustering algorithm</a>                                          | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
-|  03  |<a href="https://www.researchgate.net/publication/378938102">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>                           | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab03.bib) |
-|  04  |<a href="https://ieeexplore.ieee.org/document/10420130">ITCLab PID Control Tuning Using Deep Learning</a>                                                                        | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas01.bib)    |
 
 <br></br>
 
