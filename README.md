@@ -19,6 +19,26 @@ Jenis Penelitian Menurut Metode
 
 <br></br>
 
+## Penelitian Filosofis:
+
+| Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|  01  |<a href="https://repository.penerbiteureka.com/media/publications/560015-fundamental-bahasa-pemrograman-python-d685ad4f.pdf">Fundamental Bahasa Pemrograman Python</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  02  |<a href="https://ejournal.unida.gontor.ac.id/index.php/ettisal/article/view/8518">Indonesian Press History: Literature Study of Press History Research in Indonesia</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+
+<br></br>
+
+
+## Penelitian Eksperimental:
+
+| Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|  01  |<a href="https://link.springer.com/article/10.1007/s11042-023-16570-9">Fruit ripeness identification using YOLOv8 model</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  02  |<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311126">Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+
+<br></br>
+
+
 
 ## Scopus Publications:
 
