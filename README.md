@@ -4,7 +4,7 @@
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Download BibTex Citation                                                                 |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|  01  |<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1059/1/012016/pdf">Estimation of Size, Volume and Weight of Oranges Using Digital Images Processing</a>                      | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab01.bib) |
+|  01  |<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1059/1/012016/pdf">Estimation of Size, Volume and Weight of Oranges Using Digital Images Processing</a>                      | [Rahmat et al. (2023)](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
 |  02  |<a href="https://link.springer.com/article/10.1007/s11045-021-00800-0">Identifying the presence of bacteria on digital images by using asymmetric distribution with k-means clustering algorithm</a>                                          | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
 
 <br></br>
