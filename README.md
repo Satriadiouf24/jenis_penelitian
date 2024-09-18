@@ -28,6 +28,15 @@ Jenis Penelitian Menurut Metode
 
 <br></br>
 
+## Penelitian Observasional:
+
+| Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|  01  |<a href="-">AUDIT TI PADA PT SINAR ACEH MENGGUNAKAN FRAMEWORK COBIT 4.1</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
+|  02  |<a href="https://jurnal.uinsu.ac.id/index.php/algoritma/article/view/8522">Analisis Minat Mahasiswa Terhadap Proses Audit Di Era Teknologi Informasi Dan Pengaruhnya Terhadap Pembelajaran Audit TI</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+
+<br></br>
+
 
 ## Penelitian Eksperimental:
 
