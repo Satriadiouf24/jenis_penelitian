@@ -1,4 +1,4 @@
-# risetinformatika
+# Jenis Penelitian
 
 ## Penelitian terapan:
 
