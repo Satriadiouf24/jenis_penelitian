@@ -1,6 +1,6 @@
 # Jenis Penelitian
 
-## Penelitian terapan:
+#%# Penelitian terapan:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -10,7 +10,7 @@
 <br></br>
 
 Jenis Penelitian Menurut Metode
-## Penelitian Historis:
+### Penelitian Historis:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ Jenis Penelitian Menurut Metode
 
 <br></br>
 
-## Penelitian Filosofis:
+### Penelitian Filosofis:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Jenis Penelitian Menurut Metode
 
 <br></br>
 
-## Penelitian Observasional:
+### Penelitian Observasional:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -38,12 +38,13 @@ Jenis Penelitian Menurut Metode
 <br></br>
 
 
-## Penelitian Eksperimental:
+### Penelitian Eksperimental:
 
 | Num  | Artikel Penelitian                                                                                                                                                    | Rangkuman Artikel                                                                |
 | -----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |  01  |<a href="https://link.springer.com/article/10.1007/s11042-023-16570-9">Fruit ripeness identification using YOLOv8 model</a>                      | [paper](https://github.com/Satriadiouf24/artikel/blob/main/PT_01) |
 |  02  |<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311126">Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks</a>                                          | [Paper](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab02.bib) |
+|  02  |<a href="https://drive.google.com/file/d/1Uw2CHBe_eHYMFKYxo-it4ZcResDWcvea/view?usp=sharing">Comparison of B-Value Predictions as Earthquake Precursors using Extreme Learning Machine and Deep Learning</a>                                          | [Paper](belum) |
 
 <br></br>
 
